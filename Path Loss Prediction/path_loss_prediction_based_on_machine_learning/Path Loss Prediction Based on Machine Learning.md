@@ -37,3 +37,24 @@
 - 探索不同ANN結構的影響
 - 開發只預測參考距離以外額外路徑損耗的ANN模型
 - 將該方法應用於考慮天線高度、建築物高度等其他變量的預測模型開發
+
+---
+### Cite
+
+**Plain Text:**
+H.-S. Jo, C. Park, E. Lee, H. K. Choi, and J. Park, "Path loss prediction based on machine learning techniques: Principal component analysis, artificial neural network, and Gaussian process", Sensors, vol. 20, no. 7, p. 1927, 2020.
+
+
+**BibTeX:**
+```bibtex
+@article{jo2020path,
+  title={Path loss prediction based on machine learning techniques: Principal component analysis, artificial neural network, and Gaussian process},
+  author={Jo, Han-Shin and Park, Chanshin and Lee, Eunhyoung and Choi, Haing Kun and Park, Jaedon},
+  journal={Sensors},
+  volume={20},
+  number={7},
+  pages={1927},
+  year={2020},
+  publisher={MDPI}
+}
+```
