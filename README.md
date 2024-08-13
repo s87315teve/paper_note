@@ -14,5 +14,5 @@
  2. [都市環境LTE網路的機器學習 Path loss 預測](/Path%20Loss%20Prediction/Machine_Learning-Based_Methods_for_Path_Loss_Prediction_in_Urban_Environment_for_LTE_Networks/README.md)
     * 關鍵字: SVR (Support Vector Regression), RF (Random Forest), KNN (K-Nearest Neighbors), LTE (Long-Term Evolution)
     * 主要貢獻: 驗證了SVR、RF和KNN等機器學習方法在都市LTE網路 Path loss 預測任務中均優於傳統的經驗模型 COST231 Walfisch-Ikegami，特別是 KNN 在性能和訓練時間上表現最佳
---
+
 ### Neural network architecture
