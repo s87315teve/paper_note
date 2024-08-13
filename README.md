@@ -4,7 +4,11 @@
 ---
 ## 分類
 - Path loss + Machine learning
-- Neural network architecture 
+- Neural network architecture
+- Sensor fusion 
+- Dynamic transmission
+- Survey
+- Tools
 
 ---
 ### Path loss + Machine learning
@@ -16,3 +20,7 @@
     * 主要貢獻: 驗證了SVR、RF和KNN等機器學習方法在都市LTE網路 Path loss 預測任務中均優於傳統的經驗模型 COST231 Walfisch-Ikegami，特別是 KNN 在性能和訓練時間上表現最佳
 
 ### Neural network architecture
+### Sensor fusion 
+### Dynamic transmission
+### Survey
+### Tools
