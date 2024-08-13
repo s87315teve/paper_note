@@ -6,3 +6,4 @@
 
 ### Path loss + Machine learning
 - [Path loss prediction based on machine learning techniques: Principal component analysis, artificial neural network, and Gaussian process](/Path%20Loss%20Prediction/Path_Loss_Prediction_Based_on_Machine_Learning_Techniques_Principal_Component_Analysis_Artificial_Neural_Network_and_Gaussian_Process/README.md)
+- [Machine Learning-Based Methods for Path Loss Prediction in Urban Environment for LTE Networks](/Path%20Loss%20Prediction/Machine_Learning-Based_Methods_for_Path_Loss_Prediction_in_Urban_Environment_for_LTE_Networks/README.md)

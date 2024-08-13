@@ -63,7 +63,7 @@
 - 考慮天線高度、建築物高度等其他變數
 
 ---
-### Cite
+### Citation
 
 **Plain Text:**
 H.-S. Jo, C. Park, E. Lee, H. K. Choi, and J. Park, "Path loss prediction based on machine learning techniques: Principal component analysis, artificial neural network, and Gaussian process", Sensors, vol. 20, no. 7, p. 1927, 2020.

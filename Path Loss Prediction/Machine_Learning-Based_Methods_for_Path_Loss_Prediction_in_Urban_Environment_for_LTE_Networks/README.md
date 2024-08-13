@@ -51,3 +51,27 @@
 
 - 所有評估的機器學習算法都優於傳統經驗模型
 - KNN算法在性能和訓練時間上表現最佳,是城市環境路徑損耗預測的理想選擇
+
+
+---
+### Citation
+
+**Plain Text:**
+N. Moraitis, L. Tsipi and D. Vouyioukas, "Machine Learning-Based Methods for Path Loss Prediction in Urban Environment for LTE Networks," 2020 16th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), Thessaloniki, Greece, 2020, pp. 1-6, doi: 10.1109/WiMob50308.2020.9253369. 
+
+
+
+**BibTeX:**
+```bibtex
+@INPROCEEDINGS{9253369,
+  author={Moraitis, Nektarios and Tsipi, Lefteris and Vouyioukas, Demosthenes},
+  booktitle={2020 16th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)}, 
+  title={Machine Learning-Based Methods for Path Loss Prediction in Urban Environment for LTE Networks}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Urban areas;Machine learning algorithms;Predictive models;Training;Long Term Evolution;Machine learning;Computational modeling;3D simulation;Long Term Evolution (LTE);machine learning;path loss prediction;urban environment},
+  doi={10.1109/WiMob50308.2020.9253369}}
+
+```
