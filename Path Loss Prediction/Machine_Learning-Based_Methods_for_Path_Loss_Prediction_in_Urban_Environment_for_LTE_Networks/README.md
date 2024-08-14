@@ -23,7 +23,7 @@
 |---------------------|------------------------------|
 | Frequency           | 2120 / 2140 / 2160 MHz       |
 | BS EIRP             | 40 dBm                       |
-| BS Height (a.g.l.)  | 75 / 95 / 115 m              |
+| BS Height   | 75 / 95 / 115 m              |
 | Bandwidth           | 20 MHz                       |
 | BS Antenna type     | Omnidirectional              |
 | MS Height           | 1.5 m                        |
@@ -50,8 +50,8 @@
   1. 平均誤差 (Mean error, ME) 
   2. 均方根誤差 (Root mean square error, RMSE)
   3. 平均絕對百分比誤差 (Mean aabsolute percentage error, MAPE)
-  4. 皮爾森積動差相關(Pearson product-moment correlation)<br>
-  *=>$\rho$ 數值範圍-1~1，完全負相關~完全正相關*
+  4. 皮爾森積動差相關(Pearson product-moment correlation)
+  *=>$\rho$ 數值範圍-1\~1，完全負相關\~完全正相關*
 
 ## 結果與討論
 
@@ -67,8 +67,8 @@
    - NLOS條件下RMSE: 3.4 dB
    - 訓練時間最短(2秒)
 
-*補充:各模型最佳參數*<br>
-*SVR: $\gamma$=1 (i.e. $\sigma$=0.707)*<br>
+*補充:各模型最佳參數*
+*SVR: $\gamma$=1 (i.e. $\sigma$=0.707)*
 *KNN: K=20*
 ### LOS 條件下的模型性能比較表
 
