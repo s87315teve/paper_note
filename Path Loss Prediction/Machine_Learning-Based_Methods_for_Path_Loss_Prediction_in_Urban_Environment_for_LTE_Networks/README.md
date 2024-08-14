@@ -69,7 +69,7 @@
 
 *補充:各模型最佳參數*<br>
 SVR: $\gamma = 1$ (i.e. $\sigma = 0.707$)<br>
-KNN: K=20
+KNN: K=20*
 ### LOS 條件下的模型性能比較表
 
 |                    | KNN| SVR RBF | Random Forest | COST231 WI  |
