@@ -51,7 +51,7 @@
   2. 均方根誤差 (Root mean square error, RMSE)
   3. 平均絕對百分比誤差 (Mean aabsolute percentage error, MAPE)
   4. 皮爾森積動差相關(Pearson product-moment correlation)
-  *=>$\rho$ 數值範圍-1\~1，完全負相關\~完全正相關*
+  *=>* $\rho$ *數值範圍-1\~1，完全負相關\~完全正相關*
 
 ## 結果與討論
 
