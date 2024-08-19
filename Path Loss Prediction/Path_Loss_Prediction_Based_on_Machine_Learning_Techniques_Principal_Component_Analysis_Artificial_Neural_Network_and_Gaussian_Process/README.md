@@ -54,7 +54,7 @@
 - 比較 Linear Model + Original shadowing 和 Proposed Model (MLP + GP-Based shadowing)
     * Original shadowing 是基於高斯分布假設而成
     * GP-Based 方法是用於相關性分析的數學模型
-    * GP-Based在 $1\sigma$、 $2 \sigma$、 $3\sigma$ 覆蓋率的表現比 Original 更接近高斯分布 *($\sigma$:標準差)*
+    * GP-Based在 $1\sigma$、 $2 \sigma$、 $3\sigma$ 覆蓋率的表現比 Original 更接近高斯分布 *( $\sigma$:標準差)*
     => 所以 GP-Based 比較準
 
 
