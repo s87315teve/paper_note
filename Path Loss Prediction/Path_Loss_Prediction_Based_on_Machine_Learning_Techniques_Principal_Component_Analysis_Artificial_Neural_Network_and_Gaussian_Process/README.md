@@ -45,7 +45,7 @@
   3. MAPE (Mean Absolute Percentage Error, 平均絕對百分比誤差)
   4. MSLE (Mean Squared Logarithmic Error, 均方對數誤差)
   5. $R^2$(R-squared, 判定係數 Coefficient of determination)<br>
-  *R^2取值範圍0~1，越高解釋力越好*
+  R^2*取值範圍0~1，越高解釋力越好*
 
 - 使用四個特徵(發射天線高度、接收天線高度、發射/接收天線高度比、距離)作為模型輸入以及先經過 PCA 降維後(剩下一個變數輸入)的模型比較
     * 兩者準確度相近( PCA 數值的變動比較平滑，但其實 PCA 後的準度有變差一點)
