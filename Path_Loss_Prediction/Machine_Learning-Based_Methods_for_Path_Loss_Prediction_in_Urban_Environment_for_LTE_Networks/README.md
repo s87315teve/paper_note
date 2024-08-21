@@ -11,7 +11,7 @@
 2. 隨機森林 (Random Forest, RF)  
 3. K近鄰 (K-Nearest Neighbor, KNN)
    
-*補充: 本研究的Baseline model為 COST231 Walfisch-Ikegami empirical model*
+***補充: 本研究的Baseline model為 COST231 Walfisch-Ikegami empirical model***
 
 ## 資料集
 
