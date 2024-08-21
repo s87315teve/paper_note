@@ -8,7 +8,7 @@
 1. 提出一個可擴展的Transformer架構，用於Link-Level Path Loss預測
 2. 該模型可以處理不同大小的輸入地圖
 3. 可以從稀疏數據中學習並泛化到新的場景
-4. 性能優於現有的機器學習方法
+
 ## 提出方法
 
 ### Scalable Transformer 架構 (基於Vit-32)
@@ -57,6 +57,34 @@
 | **Scalable transformer(Ours)**   | **2.27**   | **1.15**   | **5.31**   | **3.29**   |
 
 ## 結論
-- 提出的Scalable transformer模型可以適應不同大小的地圖輸入
+- 提出的Scalable Transformer模型可以適應不同大小的地圖輸入
 - 特別適用於毫米波及更短波長在城市區域的Path loss預測(因為他們的Path loss由LOS路徑主導)
 - 目前模型Input只有一張2D俯視圖，未來可以加入地形訊息和建築物高度來進一步改進模型
+
+
+
+---
+### Citation
+
+**Plain Text:**
+T. M. Hehn et al., "Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps," GLOBECOM 2023 - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, 2023, pp. 4804-4809, doi: 10.1109/GLOBECOM54140.2023.10436935.
+
+
+
+
+
+**BibTeX:**
+```bibtex
+@INPROCEEDINGS{10436935,
+  author={Hehn, Thomas M. and Orekondy, Tribhuvanesh and Shental, Ori and Behboodi, Arash and Bucheli, Juan and Doshi, Akash and Namgoong, June and Yoo, Taesang and Sampath, Ashwin and Soriaga, Joseph B.},
+  booktitle={GLOBECOM 2023 - 2023 IEEE Global Communications Conference}, 
+  title={Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={4804-4809},
+  keywords={Adaptation models;Transmitters;Buildings;Predictive models;Transformers;Propagation losses;Data models},
+  doi={10.1109/GLOBECOM54140.2023.10436935}}
+
+
+```

@@ -20,6 +20,7 @@
     * 主要貢獻: 驗證了SVR、RF和KNN等機器學習方法在都市LTE網路 Path loss 預測任務中均優於傳統的經驗模型 COST231 Walfisch-Ikegami，特別是 KNN 在性能和訓練時間上表現最佳
  3. [使用Scalable Transformer來預測地圖兩點之間的Path loss](/Path_Loss_Prediction/Transformer-Based_Neural_Surrogate_for_Link-Level_Path_Loss_Prediction_from_Variable-Sized_Maps/README.md)
     * 關鍵字: Scalable Transformer, Resnet (Residual neural network), MLP (Multilayer perceptron), UNet, 3GPP TR38.901, Ray-tracing
+    * 主要貢獻: 提出了一個可擴展的Transformer架構，能夠從不同大小的地圖中預測Link-Level Path Loss，並從稀疏資料中能夠有效學習與泛化，性能優於現有機器學習方法
 ### Neural network architecture
 ### Sensor fusion 
 ### Dynamic transmission
