@@ -1,6 +1,7 @@
 # An Ubiquitous 2.6 GHz Radio Propagation Model for Wireless Networks Using Self-Supervised Learning From Satellite Images
 
 ---
+*claude生成*
 
 ## 背景
 
@@ -67,3 +68,26 @@
 2. 開發新方法從衛星圖像中學習更有洞察力的無線環境表徵
 3. 進一步提高模型在極端或罕見環境中的泛化能力
 
+
+---
+### Citation
+
+**Plain Text:**
+M. Sousa, P. Vieira, M. P. Queluz and A. Rodrigues, "An Ubiquitous 2.6 GHz Radio Propagation Model for Wireless Networks Using Self-Supervised Learning From Satellite Images," in IEEE Access, vol. 10, pp. 78597-78615, 2022, doi: 10.1109/ACCESS.2022.3193486.
+
+
+
+
+
+**BibTeX:**
+```bibtex
+@article{sousa2022ubiquitous,
+  title={An ubiquitous 2.6 GHz radio propagation model for wireless networks using self-supervised learning from satellite images},
+  author={Sousa, Marco and Vieira, Pedro and Queluz, Maria Paula and Rodrigues, Ant{\'o}nio},
+  journal={IEEE Access},
+  volume={10},
+  pages={78597--78615},
+  year={2022},
+  publisher={IEEE}
+}
+```
