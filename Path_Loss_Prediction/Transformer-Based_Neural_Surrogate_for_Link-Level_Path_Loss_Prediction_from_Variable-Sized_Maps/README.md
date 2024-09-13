@@ -75,7 +75,7 @@ T. M. Hehn et al., "Transformer-Based Neural Surrogate for Link-Level Path Loss 
 
 **BibTeX:**
 ```bibtex
-@INPROCEEDINGS{10436935,
+@INPROCEEDINGS{hehn2023transformer,
   author={Hehn, Thomas M. and Orekondy, Tribhuvanesh and Shental, Ori and Behboodi, Arash and Bucheli, Juan and Doshi, Akash and Namgoong, June and Yoo, Taesang and Sampath, Ashwin and Soriaga, Joseph B.},
   booktitle={GLOBECOM 2023 - 2023 IEEE Global Communications Conference}, 
   title={Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps}, 
