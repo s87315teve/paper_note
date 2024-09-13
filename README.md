@@ -26,13 +26,13 @@
     * 簡介: 提出了一種新的深度學習算法,使用CNN從3D地圖數據預測毫米波頻段的路徑損耗指數,結合了確定性模型的精確性和統計模型的快速推理時間,在各種環境中表現穩定,為5G毫米波頻段的快速路徑損耗預測提供了有效工具
  5. [使用RadioNet基於Transformer的模型進行密集城市環境無線電地圖預測](/Path_Loss_Prediction/radionet/README.md)
     * 關鍵字: RadioNet, Transformer, Grid Embedding, CNN (Convolutional Neural Network), UNet, Ray-tracing
-    * 簡介: 提出了一個名為RadioNet的新型Transformer基礎模型，用於快速且可靠的無線電地圖預測。引入了網格嵌入技術來替代傳統的位置嵌入，更好地描述源、目標和環境障礙物之間的空間關係。在密集城市環境中，RadioNet顯著提高了預測準確性和可靠性，同時大幅提升了預測速度，相比射線追蹤方法快4個數量級。
+    * 簡介: 提出了一個名為RadioNet的新型Transformer基礎模型，用於快速且可靠的無線電地圖預測。引入了網格嵌入技術來替代傳統的位置嵌入，更好地描述源、目標和環境障礙物之間的空間關係。在密集城市環境中，RadioNet顯著提高了預測準確性和可靠性，同時大幅提升了預測速度，相比光線追蹤方法快4個數量級。
  6. [使用衛星圖像的自監督學習來建立無處不在的2.6 GHz無線網路傳播模型](/Path_Loss_Prediction/2.6_GHz_Radio_Propagation_Model_for_Wireless_Networks_Using_Self-Supervised_Learning/README.md)
     * 關鍵字: Self-supervised learning, CNN (Convolutional Neural Network), ResNet50, MLP (Multilayer Perceptron), ROI (Region of Interest) Filter, Path loss prediction, Satellite images
     * 簡介: 提出了USARP (Ubiquitous Satellite Aided Radio Propagation) 模型，使用自監督學習從衛星圖像中提取無線環境特徵，結合CNN和MLP架構，顯著提升了路徑損耗預測的地理泛化能力，在多種無線傳播環境中表現優異
  7. [使用卷積神經網絡FadeNet進行毫米波大規模信道衰落預測](/Path_Loss_Prediction/FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications/README.md)
     * 關鍵字: CNN (Convolutional Neural Network), U-Net, LSF (Large-Scale Fading), mm-Wave (Millimeter Wave), Ray-tracing
-    * 簡介: 提出了FadeNet,一種基於改進U-Net架構的28層卷積神經網絡,能夠從地形、建築和植被高度圖像預測毫米波大規模信道衰落,計算速度比傳統射線追蹤方法快40-1000倍,並在多個城市間展現了良好的泛化性能
+    * 簡介: 提出了FadeNet,一種基於改進U-Net架構的28層卷積神經網絡,能夠從地形、建築和植被高度圖像預測毫米波大規模信道衰落,計算速度比傳統光線追蹤方法快40-1000倍,並在多個城市間展現了良好的泛化性能
 ### Neural network architecture
 ### Sensor fusion 
 ### Dynamic transmission
