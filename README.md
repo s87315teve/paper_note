@@ -21,7 +21,7 @@
  3. [使用Scalable Transformer來預測地圖兩點之間的Path loss](/Path_Loss_Prediction/Transformer-Based_Neural_Surrogate_for_Link-Level_Path_Loss_Prediction_from_Variable-Sized_Maps/README.md)
     * 關鍵字: Scalable Transformer, Resnet (Residual neural network), MLP (Multilayer perceptron), UNet, 3GPP TR38.901, Ray-tracing
     * 簡介: 提出了一個可擴展的Transformer架構，能夠從不同大小的地圖中預測Link-level path loss，並從稀疏資料中能夠有效學習與泛化，性能優於現有機器學習方法
- 4. [使用深度學習預測室外毫米波的Path Loss Exponent](/Path_Loss_Presiction/Path_Loss_Exponent_Prediction_for_Outdoor_Millimeter_Wave_Channels_through_Deep_Learning/README.md)
+ 4. [使用深度學習預測室外毫米波的Path Loss Exponent](/Path_Loss_Prediction/Path_Loss_Exponent_Prediction_for_Outdoor_Millimeter_Wave_Channels_through_Deep_Learning/README.md)
     * 關鍵字: CNN (Convolutional Neural Network), VPL (Vertical Plane Launch), Ray-tracing, Millimeter wave, Path Loss Exponent (PLE), GIS (Geographic Information System)
     * 簡介: 提出了一種新的深度學習算法,使用CNN從3D地圖數據預測毫米波頻段的路徑損耗指數,結合了確定性模型的精確性和統計模型的快速推理時間,在各種環境中表現穩定,為5G毫米波頻段的快速路徑損耗預測提供了有效工具
  5. [使用RadioNet基於Transformer的模型進行密集城市環境無線電地圖預測](/Path_Loss_Prediction/radionet/README.md)
