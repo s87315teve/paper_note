@@ -30,9 +30,12 @@
  6. [使用衛星圖像的自監督學習來建立無處不在的2.6 GHz無線網路傳播模型](/Path_Loss_Prediction/2.6_GHz_Radio_Propagation_Model_for_Wireless_Networks_Using_Self-Supervised_Learning/README.md)
     * 關鍵字: Self-supervised learning, CNN (Convolutional Neural Network), ResNet50, MLP (Multilayer Perceptron), ROI (Region of Interest) Filter, Path loss prediction, Satellite images
     * 簡介: 提出了USARP (Ubiquitous Satellite Aided Radio Propagation) 模型，使用自監督學習從衛星圖像中提取無線環境特徵，結合CNN和MLP架構，顯著提升了路徑損耗預測的地理泛化能力，在多種無線傳播環境中表現優異
- 7. [使用卷積神經網絡FadeNet進行毫米波大規模信道衰落預測](/Path_Loss_Prediction/FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications/README.md)
+ 7. [使用卷積神經網路FadeNet進行毫米波大規模信道衰落預測](/Path_Loss_Prediction/FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications/README.md)
     * 關鍵字: CNN (Convolutional Neural Network), U-Net, LSF (Large-Scale Fading), mm-Wave (Millimeter Wave), Ray-tracing
-    * 簡介: 提出了FadeNet,一種基於改進U-Net架構的28層卷積神經網絡,能夠從地形、建築和植被高度圖像預測毫米波大規模信道衰落,計算速度比傳統光線追蹤方法快40-1000倍,並在多個城市間展現了良好的泛化性能
+    * 簡介: 提出了FadeNet,一種基於改進U-Net架構的28層卷積神經網路,能夠從地形、建築和植被高度圖像預測毫米波大規模信道衰落,計算速度比傳統光線追蹤方法快40-1000倍,並在多個城市間展現了良好的泛化性能
+ 8. [使用人工神經網路建模預測都市環境的路徑損耗](/Path_Loss_Prediction/Artificial_Neural_Network_Modeling_for_Path_Loss/README.md)
+    * 關鍵字: ANN (人工神經網路, Artificial Neural Network), MLP (多層感知器, Multilayer Perceptron), ReLU (修正線性單元, Rectified Linear Unit), L-BFGS (限制記憶體BFGS演算法, Limited-memory Broyden-Fletcher-Goldfarb-Shanno), 路徑損耗預測, 都市環境
+    * 簡介: 提出了一種基於人工神經網路的多維度迴歸架構，用於3到6 GHz頻段都市環境的路徑損耗建模。透過對網路架構參數（如啟動函數、隱藏層數量和節點數）的分析，發現所提出的ANN模型比傳統線性模型更精確和靈活，特別是在高樓大廈環境中表現出色，為複雜都市環境的無線通訊網路規劃提供了更精確的工具。
 ### Neural network architecture
 ### Sensor fusion 
 ### Dynamic transmission
